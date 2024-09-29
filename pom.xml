@@ -24,6 +24,7 @@
         </dependencies>
 
         <build>
+         <finalName>interconversions</finalName>
             <plugins>
                 <!-- JaCoCo plugin for code coverage -->
                 <plugin>
